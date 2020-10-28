@@ -10,3 +10,4 @@ hello word!!
 hello word!!阿巴阿巴阿巴
 this is new greeting!
 make change in hotfox
+get change in github
